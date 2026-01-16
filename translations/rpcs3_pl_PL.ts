@@ -10533,7 +10533,7 @@ Temat:</translation>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.ui" line="1178"/>
         <source>Remove Custom Gamepad Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Niestandardowe Konfiguracje Gamepadów</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.ui" line="1298"/>
@@ -10543,12 +10543,12 @@ Temat:</translation>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.ui" line="1303"/>
         <source>Clans</source>
-        <translation type="unfinished"></translation>
+        <translation>Klany</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.ui" line="1306"/>
         <source>Configure Clans</source>
-        <translation type="unfinished"></translation>
+        <translation>Skonfiguruj Klany</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.ui" line="1311"/>
@@ -10851,12 +10851,12 @@ Temat:</translation>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="225"/>
         <source>&amp;Play Last Played Game</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Otwórz Ostatnio Graną Grę</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="575"/>
         <source>(S)ELF files (*BOOT.BIN *.elf *.self);;ELF files (BOOT.BIN *.elf);;SELF files (EBOOT.BIN *.self);;BOOT files (*BOOT.BIN);;BIN files (*.bin);;ISO files (*.iso);;All executable files (*.SAVESTAT.zst *.SAVESTAT.gz *.SAVESTAT *.sprx *.SPRX *.self *.SELF *.bin *.BIN *.prx *.PRX *.elf *.ELF *.o *.O);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>(S)ELF pliki (*BOOT.BIN *.elf *.self);;ELF pliki (BOOT.BIN *.elf);;SELF pliki (EBOOT.BIN *.self);;BOOT pliki (*BOOT.BIN);;BIN pliki (*.bin);;ISO pliki (*.iso);;All executable pliki (*.SAVESTAT.zst *.SAVESTAT.gz *.SAVESTAT *.sprx *.SPRX *.self *.SELF *.bin *.BIN *.prx *.PRX *.elf *.ELF *.o *.O);;Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="623"/>
@@ -10887,7 +10887,7 @@ Temat:</translation>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="714"/>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="2570"/>
         <source>ISO files (*.iso);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO pliki (*.iso);;Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/main_window.cpp" line="749"/>
